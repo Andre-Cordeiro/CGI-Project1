@@ -10,8 +10,8 @@ Eletric field which reacts to moving positive and negative charges.
 |-------------|-----|
 | Positive Charge     |<kbd>MB1</kbd>|
 | Negative Charge     |<kbd>Shift + MB1</kbd>|
-| Remove Charges Icons| <kbd>SPACE</kbd>|
-| Add Charges Icons| <kbd>SPACE</kbd>|
+| Remove Charges's Icons| <kbd>SPACE</kbd>|
+| Add Charges's Icons| <kbd>SPACE</kbd>|
 
 ## Authors
 
