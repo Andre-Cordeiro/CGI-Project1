@@ -9,7 +9,7 @@ Eletric field which reacts to moving positive and negative charges.
 | Instruction | Key |
 |-------------|-----|
 | Positive Charge     |<kbd>MB1</kbd>|
-| Negative Charge     |<kbd>Shift +</kbd>|
+| Negative Charge     |<kbd>Shift +MB1</kbd>|
 
 ## Authors
 
